@@ -39,3 +39,7 @@ Then open the visualizer:
 - Use the "Load JSON" button
 - Use the "Paste JSON" button (supports Ctrl+Enter to confirm)
 - Or pass it via URL: `treemap.html?url=bloat.json`
+
+---
+
+Created with ❤️ for the Rust community at the request of [@robbepop](https://github.com/robbepop).
