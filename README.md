@@ -4,7 +4,7 @@ Interactive treemap visualizer for [cargo-bloat](https://github.com/nickel-org/c
 
 ## Demo
 
-[Open demo with Wasmi data](treemap.html?url=wasmi.json)
+[Open demo with Wasmi data](https://registry.loopdive.com/users/tt/cargo-bloat/cargo-bloat-treemap.html?url=wasmi.json)
 
 ![Screenshot](screenshot.png)
 
