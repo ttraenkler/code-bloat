@@ -4,7 +4,7 @@ Interactive treemap visualizer for [cargo-bloat](https://github.com/nickel-org/c
 
 ## Demo
 
-[Open demo with Wasmi data](https://registry.loopdive.com/users/tt/cargo-bloat/cargo-bloat-treemap.html?url=wasmi.json)
+[Open demo with Wasmi data](https://registry.loopdive.com/users/tt/code/rust/cargo-bloat-treemap/treemap.html?url=wasmi.json)
 
 ![Screenshot](screenshot.png)
 
@@ -27,6 +27,7 @@ cargo bloat --release --message-format=json > bloat.json
 ```
 
 Then open the visualizer:
+
 - Drag & drop the JSON file onto the page
 - Use the "Load JSON" button
 - Use the "Paste JSON" button
